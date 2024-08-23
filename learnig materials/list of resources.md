@@ -10,14 +10,21 @@ The file puts together data sources which can be used for learning energy system
 
 ## Software Development
 ### Documentation
+
 PyPSA
+
 PyPSA-Earth
+
 PyPSA-Eur
+
 atlite
+
 linopy
 
 ### Mailing lists
+
 PyPSA
+
 OpenMod
 
 ## Energy Systems Modeling
@@ -28,11 +35,13 @@ https://nworbmot.org/teaching.html
 https://pitmonticone.github.io/EnergySystemModelling/
 
 ### Micro-grids optimisation
-Teaching materials by Prof. Davide Fioriti on energy modelling
+Teaching materials by Prof. Davide Fioriti on micro-grids modelling
 https://github.com/ekatef/Teaching
 
 Data science in energy modeling
 
 ## Community
+
 Forums (OpenMod)
+
 PyPSA-meets-Earth Discord
