@@ -1,5 +1,5 @@
 # Knowledge Database
-The file puts together data sources which can be used for learning energy systems modeling.
+The file puts together data sources which can be used for getting started with energy systems modeling.
 
 ## Software
 
@@ -15,6 +15,7 @@ The file puts together data sources which can be used for learning energy system
 ### Documentation
 - **PyPSA** https://pypsa.readthedocs.io/en/latest/
 - **PyPSA-Earth** https://pypsa-earth.readthedocs.io/en/latest/
+- **PyPSA-Earth Hackathon** https://github.com/pypsa-meets-earth/documentation/tree/main/hackathon
 - **PyPSA-Eur** https://pypsa-eur.readthedocs.io/en/latest/
 - **atlite** https://atlite.readthedocs.io/en/latest/
 - **linopy** https://linopy.readthedocs.io/en/latest/
@@ -23,6 +24,7 @@ The file puts together data sources which can be used for learning energy system
 
 ### Examples
 - `Examples` section in PyPSA documentation https://pypsa.readthedocs.io/en/latest/examples-index/lopf.html
+- `Notebooks` repository from PyPSA-meets-Earth gives some hints on validation modeling inputs and analisys of the outputs https://github.com/pypsa-meets-earth/documentation/
 
 ### Mailing lists
 - **PyPSA** https://groups.google.com/g/pypsa
@@ -38,6 +40,7 @@ https://pitmonticone.github.io/EnergySystemModelling/
 Teaching materials by Prof. Davide Fioriti on micro-grids modelling
 https://github.com/ekatef/Teaching
 
+### Data analysis for energy modeling
 Data science in energy modeling by Dr. Fabian Neumann https://fneum.github.io/data-science-for-esm/intro.html
 
 ## Community
