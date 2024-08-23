@@ -24,7 +24,7 @@ The file puts together data sources which can be used for getting started with e
 
 ### Examples
 - `Examples` section in PyPSA documentation https://pypsa.readthedocs.io/en/latest/examples-index/lopf.html
-- `Notebooks` repository from PyPSA-meets-Earth gives some hints on validation modeling inputs and analisys of the outputs https://github.com/pypsa-meets-earth/documentation/
+- `Notebooks` repository from PyPSA-meets-Earth gives some hints on validation modeling inputs and analysis of the outputs https://github.com/pypsa-meets-earth/documentation/
 
 ### Mailing lists
 - **PyPSA** https://groups.google.com/g/pypsa
