@@ -1,16 +1,17 @@
 # Knowledge Database
 The file puts together data sources which can be used for learning energy systems modeling.
 
-## Ecosystem
+## Software
+
+### Source code
 - **PyPSA** is a backbone power modeling framework https://github.com/pypsa/pypsa
 - **PyPSA-Earth** is a model for power or energy system for any country of the world https://github.com/pypsa-meets-earth/pypsa-earth
 - **PyPSA-Eur** is a model for power or energy system for countries in Europe https://github.com/pypsa/pypsa-eur
 - **atlite** is a library for converting weather data (e.g. wind speeds, solar influx) into data relevant for energy systems https://github.com/pypsa/atlite
-- **linopy** https://github.com/PyPSA/linopy
+- **linopy** is an interface between the model definition and a solver https://github.com/PyPSA/linopy
 - **technology-data** is a tool which compiles assumptions on energy system technologies (such as costs, efficiencies, lifetimes, etc.) for chosen years (e.g. [2020, 2030, 2050]) from a variety of sources into CSV files to be read by energy system modelling software https://github.com/PyPSA/technology-data
 - **powerplantmatching**  is a toolset for cleaning, standardizing and combining multiple open power plant databases https://github.com/PyPSA/powerplantmatching
 
-## Software Development
 ### Documentation
 - **PyPSA** https://pypsa.readthedocs.io/en/latest/
 - **PyPSA-Earth** https://pypsa-earth.readthedocs.io/en/latest/
