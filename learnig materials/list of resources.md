@@ -7,6 +7,7 @@ The file puts together data sources which can be used for getting started with e
 - **PyPSA** is a backbone power modeling framework https://github.com/pypsa/pypsa
 - **PyPSA-Earth** is a model for power or energy system for any country of the world https://github.com/pypsa-meets-earth/pypsa-earth
 - **PyPSA-Eur** is a model for power or energy system for countries in Europe https://github.com/pypsa/pypsa-eur
+- **PyPSA-Distribution** is an optimization model for micro-grids and distribution grids with an automated extraction of the inputs needed to build grid topology and electricity load profiles https://github.com/pypsa-meets-earth/pypsa-distribution
 - **atlite** is a library for converting weather data (e.g. wind speeds, solar influx) into data relevant for energy systems https://github.com/pypsa/atlite
 - **linopy** is an interface between the model definition and a solver https://github.com/PyPSA/linopy
 - **technology-data** is a tool which compiles assumptions on energy system technologies (such as costs, efficiencies, lifetimes, etc.) for chosen years (e.g. [2020, 2030, 2050]) from a variety of sources into CSV files to be read by energy system modelling software https://github.com/PyPSA/technology-data
@@ -17,6 +18,7 @@ The file puts together data sources which can be used for getting started with e
 - **PyPSA-Earth** https://pypsa-earth.readthedocs.io/en/latest/
 - **PyPSA-Earth Hackathon** https://github.com/pypsa-meets-earth/documentation/tree/main/hackathon
 - **PyPSA-Eur** https://pypsa-eur.readthedocs.io/en/latest/
+- **PyPSA-Distribution** https://pypsa-distribution.readthedocs.io/
 - **atlite** https://atlite.readthedocs.io/en/latest/
 - **linopy** https://linopy.readthedocs.io/en/latest/
 - **technology-data** https://technology-data.readthedocs.io/
